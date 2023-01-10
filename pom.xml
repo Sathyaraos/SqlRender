@@ -50,7 +50,7 @@
 					<exclude>**/*.jardesc</exclude>
 				</excludes>
 			</resource>
-			<!-- Note: see resource dir configured via maven-resources-plugin (needed 
+			<!-- Note: see resource dir configured via maven-resources-plugin   (needed 
 				for m2e support) -->
 		</resources>
 		<plugins>
